@@ -1,0 +1,151 @@
+# depslib dependency file v1.0
+1637191497 source:c:\facultad\programacion 2\tp final\tp final prog2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Mision.h"
+
+1637197683 source:c:\facultad\programacion 2\tp final\tp final prog2\astronauta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Astronauta.h"
+
+1637164898 c:\facultad\programacion 2\tp final\tp final prog2\astronauta.h
+
+1637200607 source:c:\facultad\programacion 2\tp final\tp final prog2\mision.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Mision.h"
+
+1636897268 source:c:\facultad\programacion 2\tp final\tp final prog2\nave.c
+	"Nave.h"
+
+1636897268 c:\facultad\programacion 2\tp final\tp final prog2\nave.h
+	"Astronauta.h"
+
+1637189455 c:\facultad\programacion 2\tp final\tp final prog2\mision.h
+	"ListaNaves.h"
+
+1637195773 source:c:\facultad\programacion 2\tp final\tp final prog2\listanaves.c
+	<stdio.h>
+	<stdlib.h>
+	"ListaNaves.h"
+	"strings.h"
+
+1637149623 c:\facultad\programacion 2\tp final\tp final prog2\listanaves.h
+	"Astronauta.h"
+
+1637257225 source:c:\users\pablo\desktop\utn\programacion ii\tp final prog2\astronauta.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	<ctype.h>
+	"Astronauta.h"
+
+1637256724 c:\users\pablo\desktop\utn\programacion ii\tp final prog2\astronauta.h
+	<stdio.h>
+	<stdlib.h>
+
+1637252271 source:c:\users\pablo\desktop\utn\programacion ii\tp final prog2\listanaves.c
+	<stdio.h>
+	<stdlib.h>
+	"ListaNaves.h"
+	"strings.h"
+
+1637243686 c:\users\pablo\desktop\utn\programacion ii\tp final prog2\listanaves.h
+	"Astronauta.h"
+
+1637242297 source:c:\users\pablo\desktop\utn\programacion ii\tp final prog2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Mision.h"
+
+1637256766 c:\users\pablo\desktop\utn\programacion ii\tp final prog2\mision.h
+	"ListaNaves.h"
+
+1637256874 source:c:\users\pablo\desktop\utn\programacion ii\tp final prog2\mision.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Mision.h"
+
+1636897268 source:c:\users\pablo\desktop\utn\programacion ii\tp final prog2\nave.c
+	"Nave.h"
+
+1636897268 c:\users\pablo\desktop\utn\programacion ii\tp final prog2\nave.h
+	"Astronauta.h"
+
+1637257225 source:c:\facultad\programacion 2\tp final ultimo dia\tp_final_prog2_actualizado_15hs\tp final prog2\astronauta.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	<ctype.h>
+	"Astronauta.h"
+
+1637268166 c:\facultad\programacion 2\tp final ultimo dia\tp_final_prog2_actualizado_15hs\tp final prog2\astronauta.h
+	<stdio.h>
+	<stdlib.h>
+
+1637278666 source:c:\facultad\programacion 2\tp final ultimo dia\tp_final_prog2_actualizado_15hs\tp final prog2\listanaves.c
+	<stdio.h>
+	<stdlib.h>
+	"ListaNaves.h"
+	"strings.h"
+
+1637268652 c:\facultad\programacion 2\tp final ultimo dia\tp_final_prog2_actualizado_15hs\tp final prog2\listanaves.h
+	"Astronauta.h"
+
+1637242297 source:c:\facultad\programacion 2\tp final ultimo dia\tp_final_prog2_actualizado_15hs\tp final prog2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Mision.h"
+
+1637285078 c:\facultad\programacion 2\tp final ultimo dia\tp_final_prog2_actualizado_15hs\tp final prog2\mision.h
+	"ListaNaves.h"
+
+1637282804 source:c:\facultad\programacion 2\tp final ultimo dia\tp_final_prog2_actualizado_15hs\tp final prog2\mision.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Mision.h"
+
+1637292532 source:c:\users\pablo\desktop\utn\programacion ii\tp final prog2 11 pm\astronauta.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	<ctype.h>
+	"Astronauta.h"
+
+1637328075 c:\users\pablo\desktop\utn\programacion ii\tp final prog2 11 pm\astronauta.h
+	<stdio.h>
+	<stdlib.h>
+
+1637327605 source:c:\users\pablo\desktop\utn\programacion ii\tp final prog2 11 pm\listanaves.c
+	<stdio.h>
+	<stdlib.h>
+	"ListaNaves.h"
+	"strings.h"
+
+1637324562 c:\users\pablo\desktop\utn\programacion ii\tp final prog2 11 pm\listanaves.h
+	"Astronauta.h"
+
+1637323552 source:c:\users\pablo\desktop\utn\programacion ii\tp final prog2 11 pm\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Mision.h"
+
+1637327718 c:\users\pablo\desktop\utn\programacion ii\tp final prog2 11 pm\mision.h
+	"ListaNaves.h"
+
+1637327605 source:c:\users\pablo\desktop\utn\programacion ii\tp final prog2 11 pm\mision.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	<ctype.h>
+	"Mision.h"
+
